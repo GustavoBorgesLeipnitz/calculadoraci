@@ -10,6 +10,8 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.calculadoraci.Calculadoraci</exec.mainClass>
+        
+        <sonar.organization>gustavoborgesleipnitz</sonar.organization>
     </properties>
     
     <dependencies>
