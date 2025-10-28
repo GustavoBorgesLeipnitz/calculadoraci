@@ -1,3 +1,3 @@
-[![Github Actions Status forGustavoBorgesLeipnitz/calculadoraci](https://github.com/GustavoBorgesLeipnitz/calculadoraci/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/GustavoBorgesLeipnitz/calculadoraci/actions)
+[![Github Actions Status for GustavoBorgesLeipnitz/calculadoraci](https://github.com/GustavoBorgesLeipnitz/calculadoraci/workflows/Integra%C3%A7%C3%A3o%20continua%20de%20Java%20com%20Maven/badge.svg)](https://github.com/GustavoBorgesLeipnitz/calculadoraci/actions)
 [![Quality GateStatus](https://sonarcloud.io/api/project_badges/measure?project=GustavoBorgesLeipnitz_calculadoraci&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=GustavoBorgesLeipnitz_calculadoraci)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=osmarbraz_calculadora5&metric=coverage)](https://sonarcloud.io/component_measures?id=GustavoBorgesLeipnitz_calculadoraci&metric=coverage)
